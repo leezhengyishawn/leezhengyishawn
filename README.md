@@ -68,7 +68,9 @@
   </tr>
 </table>
 
-Side note, I'm also really, really into card games. If you have one cooking, I am more than willing to hear it out. 
+<h2> Hobbies </h2>
+
+I'm also really, really into card games. If you have one cooking, I am more than willing to hear it out. Incidentally, I also like to cook. My cooking style is to pack as much umami and flavour into a dish until it induces a food-coma.
 
 I have achieved Legendary rank or equivalent in:
 - Hearthstone (Standard, Wild)
