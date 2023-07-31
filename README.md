@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Shawn Lee</h1>
 
-- I'm currently a Planner at Tencent Games which is a more designer + project manager role but I still work with code and learning new technologies
+- I'm currently a Planner at Tencent Games which is a more game designer + project manager role but I still work with code and learn new technologies
 - I've been developing games and interactive applications since I was 14. I'm still learning and always open to collaborate
 - You can reach me at leezhengyishawn@gmail.com or my <a href="https://linkedin.com/in/shawnzylee">Linkedin</a>
 
