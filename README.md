@@ -67,3 +67,15 @@
     </td>
   </tr>
 </table>
+
+Side note, I'm also really, really into card games. If you have one cooking, I am more than willing to hear it out. 
+
+I have achieved Legendary rank or equivalent in:
+- Hearthstone (Standard, Wild)
+- Legends of Runeterra (Standard)
+- Magic the Gathering Arena (Standard, Draft)
+- Magic Spellslingers
+- Marvel SNAP
+- Yu-Gi-Oh! Duel Links
+
+Additionally, I playtested for Ashes: Rise of the Phoenixborn by PlaidHat Games from 2017-2020.
