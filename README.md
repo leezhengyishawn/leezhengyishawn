@@ -80,4 +80,4 @@ I have achieved Legendary rank or equivalent in:
 - Marvel SNAP
 - Yu-Gi-Oh! Duel Links
 
-Additionally, I playtested for Ashes: Rise of the Phoenixborn by PlaidHat Games from 2017-2020. So if you have a card game project cooking, I am more than willing to hear it out. Incidentally, I also like to cook. My cooking style is to pack as much umami and flavour into a dish until it induces a food-coma.
+Additionally, I playtested for Ashes: Rise of the Phoenixborn by PlaidHat Games from 2017-2020. So if you have a card game project cooking, I am more than willing to hear it out. Incidentally, I also like to cook. My cooking style is to pack as much umami and flavour into a dish until it induces a food-coma. Hearty stews, soups, braised meats. Hoping to make Tonkotsu stock from scratch at some point.
