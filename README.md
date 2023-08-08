@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Shawn Lee</h1>
+<h1>Hi there, 👋 I'm Shawn </h1>
 
 - I'm currently a Planner at Tencent Games which is a more game designer + project manager role but I still work with code and learn new technologies
 - I've been developing games and interactive applications since I was 14. I'm still learning and always open to collaborate
@@ -70,7 +70,7 @@
 
 <h2> Hobbies </h2>
 
-I'm also really, really into card games. 
+I'm really, really into card games. 
 
 I have achieved Legendary rank or equivalent in:
 - Hearthstone (Standard, Wild)
